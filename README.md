@@ -1,5 +1,5 @@
 # Projeto: Análise de Acidentes em Rodovias Federais
-Este projeto realiza uma análise de acidentes ocorridos em rodovias federais nos anos de 2018, 2019 e 2020. Utilizando Python para manipulação e processamento dos dados, além do Power BI para a visualização final, criamos um dashboard com informações detalhadas sobre os eventos registrados.
+Este projeto realiza uma análise de acidentes ocorridos em rodovias federais nos anos de 2018, 2019 e 2020. Utilizando Python para manipulação e processamento dos dados, além do Power BI para a visualização final, desenvolvi um dashboard com informações detalhadas sobre os eventos registrados.
 
 ## Objetivos do Projeto
 
